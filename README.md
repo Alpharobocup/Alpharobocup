@@ -5,9 +5,9 @@ Outstanding skills: C++ , Soccer Simulation 2D , Soccer Simulation 3D
 , Python, HTML, PHP, CSS, WordPress, Bootstrap, Office ((Microsoft))
 
 - Team members:
-- 1. Emad Shojaei (Leader)
-- 2. Mohammad Rahim Soltani
-- 3. Nikan Safari
+- 1 . Emad Shojaei (Leader)
+- 2 . Mohammad Rahim Soltani
+- 3 . Nikan Safari
 - Telegram ID : @Alpha_tteam
 
 <!---
